@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@mithraperera/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of lodash implemented as part of Lighthouse Labs curriculum.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/MithraPerera/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mithra Perera",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MithraPerera/lotide/issues"
