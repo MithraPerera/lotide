@@ -2,7 +2,7 @@ const assert = require('chai').assert;
 const map = require('../map');
 
 
-describe("#head", () => {
+describe("#map", () => {
   // Test Case 1: Array of strings
   const words = ["ground", "control", "to", "major", "tom"];
   it('map with an array of strings', () => {
